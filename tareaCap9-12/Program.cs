@@ -19,13 +19,14 @@ namespace tareaCap9_12
                 Console.WriteLine("0- Salir");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
+
                 Console.Write("Elegir una opcion -> ");
             }
-            
+
             //funcion que retorna el nombre el numero escrito
-           
-                //variables generales
-                string entrada = "";
+
+            //variables generales
+            string entrada = "";
                 int nav;
                 int navCap5;
                 int navCap6;

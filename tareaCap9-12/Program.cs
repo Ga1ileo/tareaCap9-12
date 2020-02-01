@@ -20,6 +20,8 @@ namespace tareaCap9_12
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
 
+                //hola
+
                 Console.Write("Elegir una opcion -> ");
             }
 

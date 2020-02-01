@@ -8,7 +8,7 @@ namespace tareaCap9_12
         {
             static void TitulosGenerales()
             {
-                Console.WriteLine("EJERCICIOS PRACTICOS || CAPITULO 1-5");
+                Console.WriteLine("EJERCICIOS PRACTICOS || CAPITULO 9-12");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
@@ -25,6 +25,7 @@ namespace tareaCap9_12
                 Console.Write("Elegir una opcion -> ");
             }
 
+
             //funcion que retorna el nombre el numero escrito
 
             //variables generales
@@ -40,6 +41,8 @@ namespace tareaCap9_12
                     TitulosGenerales();
                     entrada = Console.ReadLine();
                     nav = Convert.ToInt32(entrada);
+               
+                
 
                     switch (nav)
                     {
